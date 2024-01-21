@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Country": "Türkiye",
+    "City": "İstanbul",
+    "Airport": "Tuzla",
+    "IsActive": true
+  }
+]
